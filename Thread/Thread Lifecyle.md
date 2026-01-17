@@ -12,7 +12,7 @@ A thread in Java goes through **multiple states** during its lifetime. Java defi
 
 ## 📊 Lifecycle Stages
 
-```
+```js
 stateDiagram-v2
     [*] --> NEW
     NEW --> RUNNABLE: start()
